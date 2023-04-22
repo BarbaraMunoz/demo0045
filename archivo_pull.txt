@@ -10,6 +10,6 @@ cambio desde repositorio
 3.- git pull (error de conflicto, modificacion tanto local como en la nube)
 4.- resolver la fusión (merge), manual (determinar que informacion se mantiene)
 5.- git add .
-    git commit -m "nuevo cambio con el merge realizado"
+    git commit -m "merge"
 6.- git pull
 7.- git push
